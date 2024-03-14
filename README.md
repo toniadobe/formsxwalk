@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--formsxwalk--toniadobe.hlx.page/
+- Live: https://main--formsxwalk--toniadobe.hlx.live/
 
 ## Installation
 
