@@ -8,7 +8,7 @@ export const defaultErrorMessages = {
   minItems: 'Specify a number of items equal to or greater than $0.',
 };
 
-let submitBaseUrl = '';
+let submitBaseUrl = 'publish-p129208-e1275597.adobeaemcloud.com/';
 
 export function setSubmitBaseUrl(url) {
   submitBaseUrl = url;
